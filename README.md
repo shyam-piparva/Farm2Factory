@@ -58,14 +58,7 @@ farm2factory-commerce-05-main/
 │   ├── context/             # React context providers
 │   ├── hooks/               # Custom React hooks
 │   └── lib/                 # Utility functions
-├── .kiro/
-│   └── specs/               # Feature specifications
-│       └── ai-waste-recommendation-system/
-│           ├── requirements.md  # System requirements
-│           ├── design.md        # Design document
-│           └── tasks.md         # Implementation tasks
-└── public/                  # Static assets
-```
+
 
 ## 🎯 AI Recommendation System
 
