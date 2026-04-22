@@ -219,17 +219,4 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- Built with [Vite](https://vitejs.dev/) and [React](https://reactjs.org/)
-- UI components from [shadcn/ui](https://ui.shadcn.com/)
-- Property-based testing with [fast-check](https://fast-check.dev/)
-- Icons from [Lucide](https://lucide.dev/)
-
-## 📞 Contact
-
-For questions or support, please open an issue on GitHub.
-
----
-
-**Made with ❤️ for sustainable agriculture and circular economy**
