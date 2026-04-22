@@ -111,7 +111,7 @@ npm run dev
 bun dev
 ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at `https://farm2factory-commerce-05.vercel.app/`
 
 ### Running Tests
 
@@ -139,31 +139,6 @@ npm run build
 npm run preview
 ```
 
-## 🧪 Testing Strategy
-
-The project uses a dual testing approach:
-
-- **Unit Tests**: Verify specific examples and edge cases
-- **Property-Based Tests**: Verify universal properties across 100+ random inputs using fast-check
-
-Example property test:
-```typescript
-// Validates that recommendations are always sorted by match score
-fc.assert(
-  fc.property(
-    fc.array(arbitraryRecommendation()),
-    (recommendations) => {
-      const sorted = rankRecommendations(recommendations);
-      for (let i = 0; i < sorted.length - 1; i++) {
-        expect(sorted[i].matchScore).toBeGreaterThanOrEqual(
-          sorted[i + 1].matchScore
-        );
-      }
-    }
-  ),
-  { numRuns: 100 }
-);
-```
 
 ## 📋 Development Roadmap
 
