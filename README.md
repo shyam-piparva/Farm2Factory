@@ -1,9 +1,11 @@
 # 🌾 Farm2Factory - AI-Powered Agricultural Waste Marketplace
 
+[![CI](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/workflows/CI/badge.svg)](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3-61dafb.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646cff.svg)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ShyamPatel972/farm2factory-ai-marketplace)](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/stargazers)
 
 > Transforming agricultural waste into valuable industrial resources through intelligent AI-powered recommendations
 
