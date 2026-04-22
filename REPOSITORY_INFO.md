@@ -2,9 +2,10 @@
 
 ## Repository Details
 
-**Repository Name:** farm2factory-ai-marketplace  
-**Owner:** ShyamPatel972  
-**URL:** https://github.com/ShyamPatel972/farm2factory-ai-marketplace  
+**Repository Name:** Farm2Factory  
+**Owner:** shyam-piparva  
+**URL:** https://github.com/shyam-piparva/Farm2Factory  
+**SSH URL:** git@github.com:shyam-piparva/Farm2Factory.git  
 **Visibility:** Public  
 **Default Branch:** master
 
@@ -47,15 +48,16 @@
 
 ## Quick Links
 
-- **Repository:** https://github.com/ShyamPatel972/farm2factory-ai-marketplace
-- **Issues:** https://github.com/ShyamPatel972/farm2factory-ai-marketplace/issues
-- **Actions:** https://github.com/ShyamPatel972/farm2factory-ai-marketplace/actions
-- **Clone URL:** https://github.com/ShyamPatel972/farm2factory-ai-marketplace.git
+- **Repository:** https://github.com/shyam-piparva/Farm2Factory
+- **Issues:** https://github.com/shyam-piparva/Farm2Factory/issues
+- **Actions:** https://github.com/shyam-piparva/Farm2Factory/actions
+- **Clone URL (SSH):** git@github.com:shyam-piparva/Farm2Factory.git
+- **Clone URL (HTTPS):** https://github.com/shyam-piparva/Farm2Factory.git
 
 ## Next Steps
 
 ### 1. View Your Repository
-Visit: https://github.com/ShyamPatel972/farm2factory-ai-marketplace
+Visit: https://github.com/shyam-piparva/Farm2Factory
 
 ### 2. Enable Additional Features
 - [ ] Enable GitHub Discussions for community engagement
@@ -67,9 +69,9 @@ Visit: https://github.com/ShyamPatel972/farm2factory-ai-marketplace
 ### 3. Add Badges to README
 Consider adding these badges:
 ```markdown
-[![CI](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/workflows/CI/badge.svg)](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/actions)
-[![GitHub issues](https://img.shields.io/github/issues/ShyamPatel972/farm2factory-ai-marketplace)](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ShyamPatel972/farm2factory-ai-marketplace)](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/stargazers)
+[![CI](https://github.com/shyam-piparva/Farm2Factory/workflows/CI/badge.svg)](https://github.com/shyam-piparva/Farm2Factory/actions)
+[![GitHub issues](https://img.shields.io/github/issues/shyam-piparva/Farm2Factory)](https://github.com/shyam-piparva/Farm2Factory/issues)
+[![GitHub stars](https://img.shields.io/github/stars/shyam-piparva/Farm2Factory)](https://github.com/shyam-piparva/Farm2Factory/stargazers)
 ```
 
 ### 4. Share Your Project
@@ -97,8 +99,8 @@ Next task in the spec: **Task 2 - Implement data validation and normalization**
 
 ```bash
 # Clone the repository
-git clone https://github.com/ShyamPatel972/farm2factory-ai-marketplace.git
-cd farm2factory-ai-marketplace
+git clone git@github.com:shyam-piparva/Farm2Factory.git
+cd Farm2Factory
 
 # Install dependencies
 npm install

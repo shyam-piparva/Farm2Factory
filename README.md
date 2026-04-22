@@ -1,11 +1,11 @@
 # 🌾 Farm2Factory - AI-Powered Agricultural Waste Marketplace
 
-[![CI](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/workflows/CI/badge.svg)](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/actions)
+[![CI](https://github.com/shyam-piparva/Farm2Factory/workflows/CI/badge.svg)](https://github.com/shyam-piparva/Farm2Factory/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3-61dafb.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646cff.svg)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ShyamPatel972/farm2factory-ai-marketplace)](https://github.com/ShyamPatel972/farm2factory-ai-marketplace/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/shyam-piparva/Farm2Factory)](https://github.com/shyam-piparva/Farm2Factory/stargazers)
 
 > Transforming agricultural waste into valuable industrial resources through intelligent AI-powered recommendations
 
@@ -104,8 +104,8 @@ The core innovation of Farm2Factory is its intelligent recommendation engine tha
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/farm2factory-ai-marketplace.git
-cd farm2factory-ai-marketplace
+git clone git@github.com:shyam-piparva/Farm2Factory.git
+cd Farm2Factory
 
 # Install dependencies
 npm install
